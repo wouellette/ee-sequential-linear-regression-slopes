@@ -33,7 +33,7 @@ var SERGS = require('users/soilwatch/functions:sergs.js');
 
 1. **SeRGS applied to the Log-Rainfall-NDVI and Soil Moisture-NDVI relationships for Senegal**
 
-The script implementing this use case located under the `examples` folder, and can be accessed via this [link](https://code.earthengine.google.com/f752a5e19948b321ec44312e359c8d93).
+The script implementing this use case located under the `examples` folder, and can be accessed via this [link](https://code.earthengine.google.com/48dcf366f9202c3e8cf3fcdc21f269e8).
 
 ![Sudan Sennar DTW example](images/SeRGS_rainfall_ndvi.gif)
 
